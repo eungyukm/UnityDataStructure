@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Ignore
+DataStructure/[Ll]ibrary/
+DataStructure/[Tt]emp/
+DataStructure/[Oo]bj/
+DataStructure/[Bb]uild/
+DataStructure/[Bb]uilds/
+DataStructure/[Ll]ogs/
+DataStructure/[Mm]emoryCaptures/
